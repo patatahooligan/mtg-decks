@@ -1,0 +1,32 @@
+4 Thief of Sanity (GRN) 205
+4 Hostage Taker (XLN) 223
+4 Doom Whisperer (GRN) 69
+1 Blood Operative (GRN) 63
+1 Duress (M19) 94
+4 Thought Erasure (GRN) 206
+2 Ritual of Soot (GRN) 84
+1 Golden Demise (RIX) 73
+2 Dive Down (XLN) 53
+1 Fungal Infection (DOM) 94
+2 Cast Down (DOM) 81
+3 Vraska's Contempt (XLN) 129
+4 Discovery // Dispersal (GRN) 223
+1 Disinformation Campaign (GRN) 167
+1 The Eldest Reborn (DOM) 90
+4 Watery Grave (GRN) 259
+4 Drowned Catacomb (XLN) 253
+9 Swamp (GRN) 262
+6 Island (GRN) 261
+1 Dimir Guildgate (GRN) 245
+1 Detection Tower (M19) 249
+
+Sideboard
+2 Disinformation Campaign (GRN) 167
+2 The Eldest Reborn (DOM) 90
+1 Fungal Infection (DOM) 94
+1 Vraska's Contempt (XLN) 129
+2 Duress (XLN) 105
+1 Golden Demise (RIX) 73
+2 Negate (RIX) 44
+2 Moment of Craving (RIX) 79
+2 Disdainful Stroke (GRN) 37
