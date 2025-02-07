@@ -1,26 +1,26 @@
-4 Arclight Phoenix
-1 Beacon Bolt
-2 Chandra, Acolyte of Flame
-4 Chart a Course
-4 Crackling Drake
-2 Finale of Promise
-4 Goblin Electromancer
-7 Island
-4 Lava Coil
-4 Mountain
-4 Opt
-4 Radical Idea
-4 Shock
-4 Steam Vents
-4 Sulfur Falls
-2 Temple of Epiphany
-2 Tormenting Voice
+4 Arclight Phoenix (GRN) 91
+1 Beacon Bolt (GRN) 154
+2 Chandra, Acolyte of Flame (M20) 126
+4 Chart a Course (XLN) 48
+4 Crackling Drake (GRN) 163
+2 Finale of Promise (WAR) 127
+4 Goblin Electromancer (GRN) 174
+7 Island (GRN) 261
+4 Lava Coil (GRN) 108
+4 Mountain (GRN) 263
+4 Opt (DOM) 60
+4 Radical Idea (GRN) 52
+4 Shock (M20) 160
+4 Steam Vents (GRN) 257
+4 Sulfur Falls (DOM) 247
+2 Temple of Epiphany (M20) 253
+2 Tormenting Voice (ZNR) 172
 
 Sideboard
-3 Alpine Moon
-1 Blink of an Eye
-2 Chandra, Awakened Inferno
-3 Entrancing Melody
-2 Flame Sweep
-2 Negate
-2 Ral, Izzet Viceroy
+3 Alpine Moon (M19) 128
+1 Blink of an Eye (DOM) 46
+2 Chandra, Awakened Inferno (M20) 127
+3 Entrancing Melody (XLN) 55
+2 Flame Sweep (M20) 139
+2 Negate (M20) 69
+2 Ral, Izzet Viceroy (GRN) 195
