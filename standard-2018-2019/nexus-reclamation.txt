@@ -1,0 +1,28 @@
+1 Deputy of Detention (RNA) 165
+4 Chemister's Insight (GRN) 32
+4 Growth Spiral (RNA) 178
+4 Nexus of Fate (M19) 306
+4 Revitalize (M19) 35
+4 Root Snare (RNA) 137
+3 Search for Azcanta // Azcanta, the Sunken Ruin (XLN) 74
+4 Wilderness Reclamation (RNA) 149
+3 Tamiyo, Collector of Tales (WAR) 220
+3 Teferi, Hero of Dominaria (DOM) 207
+2 Blast Zone (WAR) 244
+4 Breeding Pool (RNA) 246
+1 Forest (DMU) 281
+3 Glacial Fortress (XLN) 255
+4 Hallowed Fountain (RNA) 251
+4 Hinterland Harbor (DOM) 240
+1 Island (DMU) 278
+3 Sunpetal Grove (XLN) 257
+4 Temple Garden (GRN) 258
+
+Sideboard
+3 Deputy of Detention (RNA) 165
+2 Bond of Flourishing (WAR) 155
+2 Dovin's Veto (WAR) 193
+1 God-Eternal Kefnet (WAR) 53
+2 Hydroid Krasis (RNA) 183
+2 Lyra Dawnbringer (DOM) 26
+3 Teferi, Time Raveler (WAR) 221
